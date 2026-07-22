@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Olist Brazilian E-Commerce Power BI Dashboard
 
 An interactive, end-to-end **Power BI Business Intelligence Solution** analyzing over **100k+ Brazilian E-Commerce orders** from **Olist** (2016 - 2018). This project covers Sales, Logistics, Customer Satisfaction, Seller Performance, and Sales Forecasting.
