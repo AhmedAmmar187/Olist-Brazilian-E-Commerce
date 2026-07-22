@@ -199,5 +199,5 @@ IF(
 ### 🚀 How to Run the Project / كيفية تشغيل الملف
 
 Clone this repository:Bashgit clone [https://github.com/AhmedAmmar187/Olist-Brazilian-E-Commerce.git](https://github.com/AhmedAmmar187/Olist-Brazilian-E-Commerce.git)
->>>>>>> 87e5eda522716ef54af83241692349ea0edfc514
+
 Download the official Olist Dataset from Kaggle.Open Olist_Analytics_Dashboard.pbix in Power BI Desktop.Update the dataset file paths in Power Query if prompted.
